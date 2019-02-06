@@ -1,3 +1,6 @@
+### POINTS: 2
+### Nice Job!
+
 # HTML frontend JavaScript events CW
 
 
